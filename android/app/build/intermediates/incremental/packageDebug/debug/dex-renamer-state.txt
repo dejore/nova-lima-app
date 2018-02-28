@@ -1,4 +1,0 @@
-#Tue Feb 27 20:38:19 BRT 2018
-base.0=C\:\\project\\nova-lima-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
